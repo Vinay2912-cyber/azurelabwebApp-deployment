@@ -9,7 +9,7 @@ The website is responsive, visually modern, and deployed using Azure App Service
 ---
 
 ## 🎯 Objectives
-- Understand basic cloud concepts and Azure services
+- Understand basic cloud concept s and Azure services
 - Create an Azure Web App
 - Deploy a static website on Microsoft Azure
 - Learn FTPS-based deployment
